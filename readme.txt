@@ -3,3 +3,4 @@ Git is free software.
 Git is a disreibuted version control system.
 aaaaaaaaaaaaaaa
 Git has a mutable index called stage.
+Git tracks changes.
